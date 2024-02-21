@@ -1,5 +1,6 @@
 A fun discord bot that will roast anyone who mentions him
 
+![beetlejuice](./images/beetle-juice.jpeg)
 
 Usage:
 ```bash
